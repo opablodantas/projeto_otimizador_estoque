@@ -100,14 +100,3 @@ streamlit run app.py
 
 O projeto está estruturado como uma aplicação interativa de apoio à decisão, com foco em análise de vendas históricas e recomendações de compra orientadas por IA.
 ```
-
----
-
-Se quiser, no próximo passo posso:
-
-* Ajustar o README para **padrão open-source**
-* Criar uma versão **mais comercial**
-* Incluir **exemplo de tela**
-* Adicionar **licença e roadmap**
-
-É só dizer.
